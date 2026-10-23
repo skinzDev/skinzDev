@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-I am a **4rd-year Software Engineering** student focused on building full-stack web applications, backend services, and secure software environments. 
+I am a **4th-year Software Engineering** student focused on building full-stack web applications, backend services, and secure software environments. 
 
 - 🔭 **Currently working on:** Volleyball coach helping app
 - 🌱 **Learning:** Ethical Hacking
