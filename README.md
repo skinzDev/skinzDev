@@ -41,7 +41,7 @@ I am a **4rd-year Software Engineering** student focused on building full-stack 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project 1](https://github.com/your-username/project-1)** | TEMPLATE
+| **[ByeBuy](https://github.com/RileDev/SE425---ByeBuy)** | Uni project with colegues
 
 ---
 
