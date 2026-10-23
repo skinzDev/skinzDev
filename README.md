@@ -48,11 +48,6 @@ I am a **4rd-year Software Engineering** student focused on building full-stack 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=skinzDev&show_icons=true&theme=radial" width="48%" alt="skinzDev GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=skinzDev&layout=compact&theme=radial" width="48%" alt="skinzDev Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=skinzDev&theme=radial" alt="skinzDev Streak Stats" />
 </p>
 
