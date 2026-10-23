@@ -11,7 +11,7 @@ I am a **4rd-year Software Engineering** student focused on building full-stack 
 
 - 🔭 **Currently working on:** Volleyball coach helping app
 - 🌱 **Learning:** Ethical Hacking
-- ⚡ **Fun Fact:** I love VolleyBall
+- ⚡ **Fun Fact:** I love Volleyball
 
 ---
 
